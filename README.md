@@ -1,7 +1,7 @@
 # Covid-Tracker-React-Native
 Covid Tracker React Native Axios
 
-This Amazon clone project bootstrapped with React Native.
+This Covid Tracker project bootstrapped with React Native.
 
 There is Apk file Download link ---> On the Way!
 
