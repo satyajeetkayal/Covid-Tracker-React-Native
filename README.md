@@ -3,7 +3,7 @@ Covid Tracker React Native Axios
 
 This Covid Tracker project bootstrapped with React Native.
 
-There is Apk file Download link ---> On the Way!
+There is Apk file Download link ---> https://1drv.ms/u/s!AonVuqdJuR_sdcd-Y8RNP_zsXJs?e=3aVief
 
 # The following Technologies were used to develop this application
 
